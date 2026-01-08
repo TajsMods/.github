@@ -5,7 +5,7 @@
 ### *Custom modifications for Upload Labs*
 
 [![GitHub](https://img.shields.io/badge/GitHub-TajsMods-181717?style=for-the-badge&logo=github)](https://github.com/TajsMods)
-[![Upload Labs](https://img.shields.io/badge/Game-Upload%20Labs-00ADD8?style=for-the-badge&logo=upload&logoColor=white)](https://github.com/TajsMods)
+![Upload Labs](https://img.shields.io/badge/Game-Upload%20Labs-00ADD8?style=for-the-badge&logo=upload&logoColor=white)
 
 ---
 
