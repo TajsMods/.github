@@ -1,15 +1,41 @@
-# Taj's Mods
+<div align="center">
 
-Welcome to **Taj's Mods** - custom modifications for the Upload Labs game!
+# 🎮 Taj's Mods
 
-## About
+### *Custom modifications for Upload Labs*
 
-This organization hosts mods and modifications created for Upload Labs, enhancing your gaming experience with new features, improvements, and customizations.
-
-## Get Started
-
-Explore our repositories to find mods that interest you. Each repository contains installation instructions and details about what the mod does.
+[![GitHub](https://img.shields.io/badge/GitHub-TajsMods-181717?style=for-the-badge&logo=github)](https://github.com/TajsMods)
+[![Upload Labs](https://img.shields.io/badge/Game-Upload%20Labs-00ADD8?style=for-the-badge&logo=upload&logoColor=white)](https://github.com/TajsMods)
 
 ---
 
-*Happy modding!*
+</div>
+
+## ✨ About
+
+Welcome to **Taj's Mods**! 🚀
+
+This organization hosts mods and modifications created for **Upload Labs**, enhancing your gaming experience with new features, improvements, and customizations.
+
+## 🎯 Get Started
+
+🔍 Explore our repositories to find mods that interest you.  
+📖 Each repository contains installation instructions and details about what the mod does.  
+⭐ Star the repos you like and contribute if you want!
+
+## 🛠️ Features
+
+- 🎨 **Custom Enhancements** - Unique modifications to improve gameplay
+- 🔧 **Quality Mods** - Thoroughly tested and maintained
+- 📚 **Easy Installation** - Clear documentation for every mod
+- 🌟 **Community Driven** - Open to contributions and feedback
+
+---
+
+<div align="center">
+
+### *Happy modding!* 🎉
+
+Made with ❤️ for the Upload Labs community
+
+</div>
