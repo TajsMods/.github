@@ -19,15 +19,14 @@ This organization hosts mods and modifications created for **Upload Labs**, enha
 
 ## 🎯 Get Started
 
-🔍 Explore our repositories to find mods that interest you.  
-📖 Each repository contains installation instructions and details about what the mod does.  
+🔍 Explore our repositories to find source-code for mods.  
+📖 Each repository contains (or will) installation instructions and details about what the mod does.  
 ⭐ Star the repos you like and contribute if you want!
 
 ## 🛠️ Features
 
 - 🎨 **Custom Enhancements** - Unique modifications to improve gameplay
-- 🔧 **Quality Mods** - Thoroughly tested and maintained
-- 📚 **Easy Installation** - Clear documentation for every mod
+- 📚 **Easy Installation** - Clear documentation for every mod (one day)
 - 🌟 **Community Driven** - Open to contributions and feedback
 
 ---
